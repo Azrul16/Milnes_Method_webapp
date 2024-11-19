@@ -25,7 +25,11 @@ This project allows you to solve various real-life problems using **Milne's Meth
    git clone https://github.com/yourusername/milnes-method-solver.git
    cd milnes-method-solver
    ```
- 
+2. **Step 2: Run the Project**:
+1. Navigate to the project folder in your file explorer.
+2. Locate and open the `index.html` file.
+3. Open the file in any modern web browser (e.g., Chrome, Firefox, Edge).
+
 # Problem Solver
 
 ## How to Use
